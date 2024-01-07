@@ -43,6 +43,8 @@ Um **Profissional de dados** que adora se envolver com o mundo da ***ingestão**
 
 #### Você também me encontra em: ####
 
-<a href= "https://www.linkedin.com/in/wilson-franquilino-55879a18a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbbdmDS6iTJKuEC6RhBNuIg%3D%3D">  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
-<a href= "wilson.franquilino@gmail.com">  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+<a href= "https://www.linkedin.com/in/wilson-franquilino-55879a18a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbbdmDS6iTJKuEC6RhBNuIg%3D%3D"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a> 
+<a href= "wilson.franquilino@gmail.com"> ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>  
+
+
 
