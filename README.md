@@ -9,7 +9,7 @@ Um **Profissional de dados** que adora se envolver com o mundo da ***ingestão**
 - Caminhar é relaxante.
 - Ler é necessário.
 
-### Atualmente mais focado em: ###
+#### Atualmente mais focado em: ####
 <div style="display: inline">
 <img width='50' heght='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <img width='50' heght='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
