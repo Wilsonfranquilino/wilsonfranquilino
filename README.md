@@ -17,6 +17,12 @@ Atualmente mais focado em:
 <img width='50' heght='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" />
 <img width='50' heght='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
 
+#### Skills ####
+<div style="display: inline">
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
 #### Você também me encontra em: ####
 
 <a href= "https://www.linkedin.com/in/wilson-franquilino-55879a18a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbbdmDS6iTJKuEC6RhBNuIg%3D%3D">  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
