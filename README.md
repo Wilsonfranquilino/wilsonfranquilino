@@ -1,4 +1,4 @@
-### Hi there 👋
+### Seja bem vindo... 👋
 
 Wilsonfranquilino/LEIA-ME .md
 
@@ -21,5 +21,5 @@ Atualmente mais focado em:
 
 #### Você também me encontra em: ####
 
-<a href= "https://www.linkedin.com/in/wilson-franquilino-55879a18a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbbdmDS6iTJKuEC6RhBNuIg%3D%3D"> <img src"![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"> </a>
+<a href= "https://www.linkedin.com/in/wilson-franquilino-55879a18a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbbdmDS6iTJKuEC6RhBNuIg%3D%3D"> <img src "![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"> </a>
 
