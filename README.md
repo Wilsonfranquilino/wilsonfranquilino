@@ -1,5 +1,10 @@
 ### Seja bem vindo... 👋
 
+#### Acesse meu currículo: ####
+<a href= "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:f63521db-5cb2-4d1b-aec9-0d42e004d83f"> ![Currículo](https://img.shields.io/badge/Currículo-6FDA44?style=for-the-badge&logo=work&logoColor=white) </a>
+
+https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:f63521db-5cb2-4d1b-aec9-0d42e004d83f
+
 ###  Sou Wilson Franquilino de Souza Filho
 Um **Profissional de dados** que adora se envolver com o mundo da ***ingestão***, ***tranformação***, ***carga*** e ***visualização dos dados***. Atualmente sou **consultor especialista em BI**. Já trabalhei como funcionário público nos correios, especialista em mineração de Rochas Ornamentais, gestor e coordenador do setor de PPCP (Planejamento, Programação e Controle da Produção) na indústria, onde por longos anos aprimorei o desenvolvimento de indicadores para tomada de decisão.
 
@@ -11,10 +16,10 @@ Um **Profissional de dados** que adora se envolver com o mundo da ***ingestão**
 
 #### Atualmente mais focado em: ####
 <div style="display: inline">
-<img width='50' heght='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-<img width='50' heght='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img width='50' heght='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-<img width='50' heght='50' src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img width='80' heght='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img width='80' heght='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img width='80' heght='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+<img width='120' heght='120' src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
 
 
