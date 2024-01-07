@@ -2,7 +2,7 @@
 
 Wilsonfranquilino/LEIA-ME .md
 
-### Wilson Franquilino de Souza Filho: )
+### Wilson Franquilino de Souza Filho
 Um **Profissional de dados** que adora se envolver com o mundo da ***ingestão***, ***tranformação***, ***carga*** e ***visualização dos dados***. Atualmente sou **consultor especialista em BI**. Já trabalhei como funcionário público nos correios, especialista em mineração de Rochas Ornamentais, gestor e coordenador do setor de PPCP (Planejamento, Programação e Controle da Produção) na indústria, onde por longos anos aprimorei o desenvolvimento de indicadores para tomada de decisão.
 
 - Consultor de BI na [Stec Business Inteligence](https://stecinf.com.br/)
@@ -21,5 +21,5 @@ Atualmente mais focado em:
 
 #### Você também me encontra em: ####
 
-<a href= "https://www.linkedin.com/in/wilson-franquilino-55879a18a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbbdmDS6iTJKuEC6RhBNuIg%3D%3D"> <img src "![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"> </a>
+<a href= "https://www.linkedin.com/in/wilson-franquilino-55879a18a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbbdmDS6iTJKuEC6RhBNuIg%3D%3D"> <img src= "![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"> </a>
 
