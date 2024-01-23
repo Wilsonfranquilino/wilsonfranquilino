@@ -3,6 +3,9 @@
 #### Acesse meu currículo: ####
 <a href= "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:e97e71a9-1f1c-470e-8906-063bee87855d"> ![Currículo](https://img.shields.io/badge/Currículo-6FDA44?style=for-the-badge&logo=work&logoColor=white) </a>
 
+#### Acesse meu portifólio: ####
+<a href= "https://sites.google.com/view/wilson-franquilino-de-souza-fi/p%C3%A1gina-inicial"> ![Portifólio](https://img.shields.io/badge/Portifólio-6FDA44?style=for-the-badge&logo=work&logoColor=white) </a>
+
 
 ###  Sou Wilson Franquilino de Souza Filho
 Um **Profissional de dados** que adora se envolver com o mundo da ***ingestão***, ***tranformação***, ***carga*** e ***visualização dos dados***. Atualmente sou **consultor especialista em BI**. Já trabalhei como funcionário público nos correios, especialista em mineração de Rochas Ornamentais, gestor e coordenador do setor de PPCP (Planejamento, Programação e Controle da Produção) na indústria, onde por longos anos aprimorei o desenvolvimento de indicadores para tomada de decisão.
