@@ -10,8 +10,8 @@
 ###  Sou Wilson Franquilino de Souza Filho
 Um **Profissional de dados** que adora se envolver com o mundo da ***ingestão***, ***tranformação***, ***carga*** e ***visualização dos dados***. Atualmente sou **consultor especialista em BI**. Já trabalhei como funcionário público nos correios, especialista em mineração de Rochas Ornamentais, gestor e coordenador do setor de PPCP (Planejamento, Programação e Controle da Produção) na indústria, onde por longos anos aprimorei o desenvolvimento de indicadores para tomada de decisão.
 
-- Consultor de BI na [Stec Business Inteligence](https://stecinf.com.br/)
-- Apaixonado por futebol e torcedor do Galo (Atletico Mineiro).
+- Consultor de BI.
+- Apaixonado por futebol.
 - Entusiasta do futebol americano (NFL).
 - Caminhar é relaxante.
 - Ler é necessário.
